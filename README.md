@@ -94,6 +94,18 @@ if __name__== "__main__":
 보로노이_다이어그램_생성(1000, 500,22)
 
 
+### first method <첫번째 방법>
+Drawing (그림그리기)
+
+
+
+| voronoi | output |
+| ------ | ------ |
+| my think | >>>>>>> |
+
+
+![voronoijpg22](https://user-images.githubusercontent.com/45711050/61276939-09337b00-a7ec-11e9-8c86-da201a3305be.JPG)
+
 
 
 
