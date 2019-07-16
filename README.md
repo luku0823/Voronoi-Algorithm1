@@ -2,7 +2,6 @@
 ![voronoijpg](https://user-images.githubusercontent.com/45711050/61276570-477c6a80-a7eb-11e9-822e-c2c6325efc0a.JPG)
 
 
-# Voronoi-Algorithm1
 
 
 # Voronoi Diagram
