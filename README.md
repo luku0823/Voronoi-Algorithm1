@@ -94,8 +94,6 @@ if __name__== "__main__":
 보로노이_다이어그램_생성(1000, 500,22)
 
 
-![enter image description here](https://picasaweb.google.com/103712751618000146933/6714167179324719201#6714167181377535234 "voronoi")
-
 
 
 
