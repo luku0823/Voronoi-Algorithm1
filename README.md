@@ -1,6 +1,7 @@
----
-#    <Voronoi Diagram>
-____
+
+# <Voronoi Diagram>
+ 
+ 
  >>##  1. Making a Stadium Shape Using Boronoy Diagram
 >> ##### 1-1 choose a correct dimensions of the photo
 >> ##### 1-2choose a correct number of initial points
