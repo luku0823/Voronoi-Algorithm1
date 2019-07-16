@@ -1,9 +1,10 @@
-# <Voronoi Diagram>
-
-### -[X] 1. Making a Stadium Shape Using Boronoy Diagram
--[x] choose a correct dimensions of the photo
--[x] choose a correct number of initial points
--[x] choose exact positions of initial points (not randomly)
+---
+#    <Voronoi Diagram>
+____
+ >>##  1. Making a Stadium Shape Using Boronoy Diagram
+>> ##### 1-1 choose a correct dimensions of the photo
+>> ##### 1-2choose a correct number of initial points
+>> ##### 1-3 choose exact positions of initial points (not randomly)
 ![KakaoTalk_20190715_091642507](https://user-images.githubusercontent.com/45711050/61309226-c3e36d80-a82c-11e9-9a91-d9caa332bc68.png)
 
 #### <MY CODE> 
@@ -55,4 +56,5 @@ if __name__== "__main__":
   보로노이_다이어그램_생성(1000, 500,22)
 ```
 
--JW-
+
+
