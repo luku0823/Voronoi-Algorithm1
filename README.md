@@ -6,6 +6,8 @@ ____
 - choose a correct dimensions of the photo
 - choose a correct number of initial points
 - choose exact positions of initial points (not randomly)
+
+
 ![KakaoTalk_20190715_091642507](https://user-images.githubusercontent.com/45711050/61309226-c3e36d80-a82c-11e9-9a91-d9caa332bc68.png)
 
 ### MY CODE 
