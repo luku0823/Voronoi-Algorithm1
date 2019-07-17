@@ -1,7 +1,6 @@
 ---
 # Voronoi Diagram
-____
->> -[X] 1. Making a Stadium Shape Using Boronoy Diagram
+-[X] 1. Making a Stadium Shape Using Boronoy Diagram
 -[x] choose a correct dimensions of the photo
 -[x] choose a correct number of initial points
 -[x] choose exact positions of initial points (not randomly)
